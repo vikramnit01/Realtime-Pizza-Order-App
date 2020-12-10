@@ -8,4 +8,4 @@ TO use this follow the following steps
 
 3. then import menus.json file in menus collection by clicking add data and then import file
 
-4.after goto your editor and write npm nun dev
+4. after that goto your editor and write "npm nun dev"
